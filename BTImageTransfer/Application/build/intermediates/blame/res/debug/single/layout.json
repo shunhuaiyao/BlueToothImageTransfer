@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/Jean/AndroidStudioProjects/BlueToothChat/Application/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/Jean/AndroidStudioProjects/BlueToothChat/Application/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/Jean/AndroidStudioProjects/BlueToothChat/C:\\Users\\Shun-Huai.Yao\\AndroidStudioProjects\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\imageinfo_fragment.xml",
+        "source": "/Users/Jean/AndroidStudioProjects/BlueToothChat/C:\\Users\\Shun-Huai.Yao\\AndroidStudioProjects\\BluetoothChat\\Application\\src\\main\\res\\layout\\imageinfo_fragment.xml"
+    },
+    {
+        "merged": "/Users/Jean/AndroidStudioProjects/BlueToothChat/Application/build/intermediates/res/merged/debug/layout/imageinfo_fragment.xml",
+        "source": "/Users/Jean/AndroidStudioProjects/BlueToothChat/Application/src/main/res/layout/imageinfo_fragment.xml"
+    },
+    {
+        "merged": "/Users/Jean/AndroidStudioProjects/BlueToothChat/Application/build/intermediates/res/merged/debug/layout/activity_show_grid_view.xml",
+        "source": "/Users/Jean/AndroidStudioProjects/BlueToothChat/Application/src/main/res/layout/activity_show_grid_view.xml"
+    },
+    {
+        "merged": "/Users/Jean/AndroidStudioProjects/BlueToothChat/C:\\Users\\Shun-Huai.Yao\\AndroidStudioProjects\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
+        "source": "/Users/Jean/AndroidStudioProjects/BlueToothChat/C:\\Users\\Shun-Huai.Yao\\AndroidStudioProjects\\BluetoothChat\\Application\\src\\main\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "/Users/Jean/AndroidStudioProjects/BlueToothChat/C:\\Users\\Shun-Huai.Yao\\AndroidStudioProjects\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_grid_view.xml",
+        "source": "/Users/Jean/AndroidStudioProjects/BlueToothChat/C:\\Users\\Shun-Huai.Yao\\AndroidStudioProjects\\BluetoothChat\\Application\\src\\main\\res\\layout\\activity_show_grid_view.xml"
+    },
+    {
+        "merged": "/Users/Jean/AndroidStudioProjects/BlueToothChat/Application/build/intermediates/res/merged/debug/layout/device_name.xml",
+        "source": "/Users/Jean/AndroidStudioProjects/BlueToothChat/Application/src/main/res/layout/device_name.xml"
+    },
+    {
+        "merged": "/Users/Jean/AndroidStudioProjects/BlueToothChat/C:\\Users\\Shun-Huai.Yao\\AndroidStudioProjects\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "/Users/Jean/AndroidStudioProjects/BlueToothChat/C:\\Users\\Shun-Huai.Yao\\AndroidStudioProjects\\BluetoothChat\\Application\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "/Users/Jean/AndroidStudioProjects/BlueToothChat/C:\\Users\\Shun-Huai.Yao\\AndroidStudioProjects\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device_list.xml",
+        "source": "/Users/Jean/AndroidStudioProjects/BlueToothChat/C:\\Users\\Shun-Huai.Yao\\AndroidStudioProjects\\BluetoothChat\\Application\\src\\main\\res\\layout\\activity_device_list.xml"
+    },
+    {
+        "merged": "/Users/Jean/AndroidStudioProjects/BlueToothChat/C:\\Users\\Shun-Huai.Yao\\AndroidStudioProjects\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "/Users/Jean/AndroidStudioProjects/BlueToothChat/C:\\Users\\Shun-Huai.Yao\\AndroidStudioProjects\\BluetoothChat\\Application\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "/Users/Jean/AndroidStudioProjects/BlueToothChat/Application/build/intermediates/res/merged/debug/layout/activity_device_list.xml",
+        "source": "/Users/Jean/AndroidStudioProjects/BlueToothChat/Application/src/main/res/layout/activity_device_list.xml"
+    },
+    {
+        "merged": "/Users/Jean/AndroidStudioProjects/BlueToothChat/Application/build/intermediates/res/merged/debug/layout/fragment_bluetooth_chat.xml",
+        "source": "/Users/Jean/AndroidStudioProjects/BlueToothChat/Application/src/main/res/layout/fragment_bluetooth_chat.xml"
+    },
+    {
+        "merged": "/Users/Jean/AndroidStudioProjects/BlueToothChat/Application/build/intermediates/res/merged/debug/layout/message.xml",
+        "source": "/Users/Jean/AndroidStudioProjects/BlueToothChat/Application/src/main/res/layout/message.xml"
+    },
+    {
+        "merged": "/Users/Jean/AndroidStudioProjects/BlueToothChat/C:\\Users\\Shun-Huai.Yao\\AndroidStudioProjects\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bluetooth_chat.xml",
+        "source": "/Users/Jean/AndroidStudioProjects/BlueToothChat/C:\\Users\\Shun-Huai.Yao\\AndroidStudioProjects\\BluetoothChat\\Application\\src\\main\\res\\layout\\fragment_bluetooth_chat.xml"
+    }
+]

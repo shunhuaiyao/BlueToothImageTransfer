@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/Jean/AndroidStudioProjects/BlueToothChat/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4/tile.9.png",
+        "source": "/Users/Jean/AndroidStudioProjects/BlueToothChat/Application/src/main/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/Users/Jean/AndroidStudioProjects/BlueToothChat/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4/white.png",
+        "source": "/Users/Jean/AndroidStudioProjects/BlueToothChat/Application/src/main/res/drawable-hdpi/white.png"
+    },
+    {
+        "merged": "/Users/Jean/AndroidStudioProjects/BlueToothChat/C:\\Users\\Shun-Huai.Yao\\AndroidStudioProjects\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_device_access_bluetooth_searching.png",
+        "source": "/Users/Jean/AndroidStudioProjects/BlueToothChat/C:\\Users\\Shun-Huai.Yao\\AndroidStudioProjects\\BluetoothChat\\Application\\src\\main\\res\\drawable-hdpi\\ic_action_device_access_bluetooth_searching.png"
+    },
+    {
+        "merged": "/Users/Jean/AndroidStudioProjects/BlueToothChat/C:\\Users\\Shun-Huai.Yao\\AndroidStudioProjects\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\white.png",
+        "source": "/Users/Jean/AndroidStudioProjects/BlueToothChat/C:\\Users\\Shun-Huai.Yao\\AndroidStudioProjects\\BluetoothChat\\Application\\src\\main\\res\\drawable-hdpi\\white.png"
+    },
+    {
+        "merged": "/Users/Jean/AndroidStudioProjects/BlueToothChat/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/Jean/AndroidStudioProjects/BlueToothChat/Application/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Jean/AndroidStudioProjects/BlueToothChat/C:\\Users\\Shun-Huai.Yao\\AndroidStudioProjects\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "/Users/Jean/AndroidStudioProjects/BlueToothChat/C:\\Users\\Shun-Huai.Yao\\AndroidStudioProjects\\BluetoothChat\\Application\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Jean/AndroidStudioProjects/BlueToothChat/C:\\Users\\Shun-Huai.Yao\\AndroidStudioProjects\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tile.9.png",
+        "source": "/Users/Jean/AndroidStudioProjects/BlueToothChat/C:\\Users\\Shun-Huai.Yao\\AndroidStudioProjects\\BluetoothChat\\Application\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+    },
+    {
+        "merged": "/Users/Jean/AndroidStudioProjects/BlueToothChat/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_device_access_bluetooth_searching.png",
+        "source": "/Users/Jean/AndroidStudioProjects/BlueToothChat/Application/src/main/res/drawable-hdpi/ic_action_device_access_bluetooth_searching.png"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Jean/AndroidStudioProjects/BlueToothChat/C:\\Users\\Shun-Huai.Yao\\AndroidStudioProjects\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_device_access_bluetooth_searching.png",
+        "source": "/Users/Jean/AndroidStudioProjects/BlueToothChat/C:\\Users\\Shun-Huai.Yao\\AndroidStudioProjects\\BluetoothChat\\Application\\src\\main\\res\\drawable-xhdpi\\ic_action_device_access_bluetooth_searching.png"
+    },
+    {
+        "merged": "/Users/Jean/AndroidStudioProjects/BlueToothChat/C:\\Users\\Shun-Huai.Yao\\AndroidStudioProjects\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "/Users/Jean/AndroidStudioProjects/BlueToothChat/C:\\Users\\Shun-Huai.Yao\\AndroidStudioProjects\\BluetoothChat\\Application\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Jean/AndroidStudioProjects/BlueToothChat/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/Jean/AndroidStudioProjects/BlueToothChat/Application/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Jean/AndroidStudioProjects/BlueToothChat/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_action_device_access_bluetooth_searching.png",
+        "source": "/Users/Jean/AndroidStudioProjects/BlueToothChat/Application/src/main/res/drawable-xhdpi/ic_action_device_access_bluetooth_searching.png"
+    }
+]
